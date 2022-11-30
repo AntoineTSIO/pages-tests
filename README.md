@@ -1,3 +1,3 @@
 # pages-tests
 
-This repository is juste a GitHub Pages test
+This repository is just a GitHub Pages test
